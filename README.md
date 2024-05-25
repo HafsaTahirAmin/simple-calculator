@@ -1,2 +1,2 @@
 # simple-calculator
-This is a simple calculator created by Me, plzz try it &amp; do let me know about your experience using this.
+ my first attempt of a simple calculator, would you plzz check it or try it.
